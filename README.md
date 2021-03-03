@@ -22,4 +22,4 @@ This example shows situation, where predictor classify third review as "neutral"
 ![result.png](tests/result.png)
 
 #### Credits:
-Thanks to https://habr.com/ru/post/467081/ for original data from 'data/origin'*
+Thanks to https://habr.com/ru/post/467081/ for original data.
